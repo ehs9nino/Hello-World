@@ -15,6 +15,10 @@
 ## Getting Started
 
 
+### Cloned the Repository from Github to local directory 
+
+### Used the VS Code IDE and Git to work on project
+
 ### Added linters for HTML/ CSS files
 
 ### Written HTML/CSS files
@@ -47,4 +51,12 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+Microverse Inc.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
 
