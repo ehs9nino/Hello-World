@@ -1,56 +1,46 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello-World
 
-> Description the project.
+> The first project based on learning and emplementing new topics like github workflow, linters and there configuration locally and globally and also to show the representation of this project remotely.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML, CSS
+- Github flow, lenters 
+- Professional Representation 
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
+### Cloned the Repository from Github to local directory 
 
-To get a local copy up and running follow these simple example steps.
+### Used the VS Code IDE and Git to work on project
 
-### Prerequisites
+### Added linters for HTML/ CSS files
 
-### Setup
+### Written HTML/CSS files
 
-### Install
+### Used Github actions to verify the code by linters
 
-### Usage
+### used .gitiignore files to disply limited work remotely 
 
-### Run tests
+### used the proper gitflow for the working enviornment 
 
-### Deployment
+### finialised the represantion of my project remotely by writing this document 
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ehsan Qader**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/ehs9nino)
+- Twitter: [@twitterhandle](https://twitter.com/ehsan9nino)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ehsan-qader-a230a6165/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,10 +54,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Microverse Inc.
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
